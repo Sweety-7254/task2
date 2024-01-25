@@ -66,7 +66,7 @@
         </tr>
     </tr>
     <td colspans="5">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id, laborum totam culpa ipsam laudantium maxime reprehenderit corrupti facilis laboriosam. Ex vitae maxime aperiam voluptas iusto unde voluptate impedit ipsam culpa.
+       Customer support for the products to know the shades and any exclusive offers go to our website
     </td>
 </tr>
     </tbody>
