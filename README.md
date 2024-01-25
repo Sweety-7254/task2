@@ -31,8 +31,7 @@
             <td>Tinted oil</td>
             <td>Cream</td>
             <td>Stick</td>
-            <td>Description</td>
-            <td>But 1 get 1 free</td>
+           
         </tr>
         <tr>
             <td>Glossy</td>
@@ -40,8 +39,7 @@
             <td>Sheer</td>
             <td>Lip liner</td>
             <td>Matte</td>
-            <td></td>
-            <td>Clearance</td>
+            
         </tr>
         <tr>
             <td>Liquid</td>
@@ -49,8 +47,7 @@
             <td>Cream</td>
             <td>Cream to powder</td>
             <td>colour correcting</td>
-            <td></td>
-            <td>But 1 get 1 free</td>
+          
         </tr>
         <tr>
             <td>Liquid</td>
@@ -58,8 +55,7 @@
             <td>Powder</td>
             <td>Nude Colour</td>
             <td>Glossy</td>
-            <td></td>
-            <td>75% off</td>
+           
         </tr>
         <tr>
             <td>Satin</td>
@@ -67,8 +63,6 @@
             <td>pigments</td>
             <td>Creams</td>
             <td>Metallic</td>
-            <td></td>
-            <td>25%</td>
         </tr>
     </tr>
     <td colspans="5">
