@@ -60,7 +60,20 @@
             <td>Creams</td>
             <td>Metallic</td>
         </tr>
+    </tr>
+    <td colspans="5">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id, laborum totam culpa ipsam laudantium maxime reprehenderit corrupti facilis laboriosam. Ex vitae maxime aperiam voluptas iusto unde voluptate impedit ipsam culpa.
+    </td>
+</tr>
     </tbody>
+</tfoot>
+     <tr>
+
+            <td>Buy 1 get 1</td>
+            <td>Buy 1 get 1</td>
+            <td>75% off</td>
+            <td>25% off</td>
+            <td>Clearance</td>
 </table>
 
 </body>
