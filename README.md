@@ -17,48 +17,48 @@
 <table border="1">
     <thead>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
-            <th>Column 4</th>
-            <th>Column 5</th>
+            <th>FOUNDATION</th>
+            <th>LIPSTICK</th>
+            <th>CONCELAR</th>
+            <th>HIGHLIGHTER</th>
+            <th>EYESHADOW</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Row 1, Col 1</td>
-            <td>Row 1, Col 2</td>
-            <td>Row 1, Col 3</td>
-            <td>Row 1, Col 4</td>
-            <td>Row 1, Col 5</td>
+            <td>Liquid</td>
+            <td>Serum</td>
+            <td>Tinted oil</td>
+            <td>Cream</td>
+            <td>Stick</td>
         </tr>
         <tr>
-            <td>Row 2, Col 1</td>
-            <td>Row 2, Col 2</td>
-            <td>Row 2, Col 3</td>
-            <td>Row 2, Col 4</td>
-            <td>Row 2, Col 5</td>
+            <td>Glossy</td>
+            <td>Lipstain</td>
+            <td>Sheer</td>
+            <td>Lip liner</td>
+            <td>Matte</td>
         </tr>
         <tr>
-            <td>Row 3, Col 1</td>
-            <td>Row 3, Col 2</td>
-            <td>Row 3, Col 3</td>
-            <td>Row 3, Col 4</td>
-            <td>Row 3, Col 5</td>
+            <td>Liquid</td>
+            <td>Stick</td>
+            <td>Cream</td>
+            <td>Cream to powder</td>
+            <td>colour correcting</td>
         </tr>
         <tr>
-            <td>Row 4, Col 1</td>
-            <td>Row 4, Col 2</td>
-            <td>Row 4, Col 3</td>
-            <td>Row 4, Col 4</td>
-            <td>Row 4, Col 5</td>
+            <td>Liquid</td>
+            <td>Cream</td>
+            <td>Powder</td>
+            <td>Nude Colour</td>
+            <td>Glossy</td>
         </tr>
         <tr>
-            <td>Product Name</td>
-            <td>Product ID</td>
-            <td>Price</td>
-            <td>Colour</td>
-            <td>Category</td>
+            <td>Satin</td>
+            <td>Shimmer</td>
+            <td>pigments</td>
+            <td>Creams</td>
+            <td>Metallic</td>
         </tr>
     </tbody>
 </table>
